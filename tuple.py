@@ -1,0 +1,5 @@
+n= int(input("Enter n: "))
+lis1 = tuple(map(int,input("Enter list: ").split()))
+# tup1 = tuple(lis1)
+print(lis1)
+print(hash(lis1))
